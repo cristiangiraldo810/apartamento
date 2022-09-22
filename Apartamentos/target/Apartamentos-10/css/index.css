@@ -1,0 +1,20 @@
+.bd-img-login{
+	background: url("../img/img-login.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 0px;
+        border-radius: 10px;
+        width: 922px;
+        height: 600px;
+        .box {
+  border: 10px solid rebeccapurple;
+  border-radius: 1em;
+  border-top-right-radius: 10% 20%;
+}
+
+}
+
+.sizeDiv{
+	width:40vw;
+}
+
